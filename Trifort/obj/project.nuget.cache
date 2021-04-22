@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "VdkJiKl3WeDY25FqsNsRjNFtk3bcpfQ0kIVjg56G6hoPdcCymEGRV1fw+SFp13mEOjttlK2jUpuM0kgygzX1fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elliot\\source\\repos\\Trifort\\Trifort\\Trifort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elliot\\.nuget\\packages\\ikvm\\8.1.5717\\ikvm.8.1.5717.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'IKVM 8.1.5717' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "IKVM",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
